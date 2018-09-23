@@ -6,7 +6,7 @@ hello-world
 Sample docker image to test docker deployments
 
 ## Running locally
-## Testing second 2
+## Testing CICD
 
 Build and run using Docker Compose:
 
