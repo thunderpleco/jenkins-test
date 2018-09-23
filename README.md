@@ -6,6 +6,7 @@ hello-world
 Sample docker image to test docker deployments
 
 ## Running locally
+## Testing
 
 Build and run using Docker Compose:
 
